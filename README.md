@@ -41,7 +41,7 @@ real_world_benchmarking/
 ### Prerequisites
 
 - Python 3.8+
-- Required packages: `pandas`, `spacy`, `sentence-transformers`, `pinecone-client`, `python-dotenv`, `PyPDF2`, `python-docx`, `openpyxl`
+- Required packages: `pandas`, `spacy`, `sentence-transformers`, `pinecone`, `waveflowdb-client`,`python-dotenv`, `PyPDF2`, `python-docx`, `openpyxl`
 
 ### Installation
 
@@ -288,3 +288,4 @@ Execution logs are saved to the `logs/` directory:
 
 - `pipeline.log` - Main pipeline execution logs
 - `prepare_data_output.csv` - Data preparation summary
+
