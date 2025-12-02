@@ -29,7 +29,7 @@ real_world_benchmarking/
 ├── source_data/
 │   └── query_map.csv                 # Test queries with ground truth
 ├── staging_data/                     # Sample data (provided)
-│   └── raghu_mistral-7b-instruct-v0.2.q8_0.gguf-llama-cpp.ipynb
+│   └── test.ipynb
 └── (auto-generated directories)
     ├── processed_data/               # Output from step 1
     ├── results/                      # Final results & metrics
